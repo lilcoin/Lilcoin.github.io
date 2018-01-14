@@ -1,0 +1,14 @@
+div
+{
+  text-align: center;
+  font-family: 'Heebo', sans-serif;
+}
+
+a
+{
+  text-align: center;
+  font-family: 'Heebo', sans-serif;
+}
+
+#list { text-align:center; }
+#list li { display:inline-block; }
